@@ -1,0 +1,23 @@
+{
+  "name": "@make-kits/varicent-kit-2",
+  "version": "0.1.0",
+  "description": "Varicent UI design-system kit for Figma Make — v2. AI reads guidelines/ markdown to enforce the design system when generating UI.",
+  "private": false,
+  "files": [
+    "guidelines/",
+    "docs/"
+  ],
+  "keywords": [
+    "figma",
+    "make-kit",
+    "varicent",
+    "design-system"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adriannaVaricent/varicent-kit-2.git"
+  },
+  "figma": {
+    "makeKit": true
+  }
+}
